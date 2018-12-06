@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PushViewController.h
 //  Animation
 //
 //  Created by LWX on 2018/2/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PushViewController : UIViewController
 
 @end
-
